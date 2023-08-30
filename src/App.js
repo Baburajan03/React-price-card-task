@@ -1,5 +1,6 @@
+import React from 'react'
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.css'; // Import Bootstrap CSS
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   return (
@@ -86,3 +87,4 @@ function App() {
 }
 
 export default App;
+
