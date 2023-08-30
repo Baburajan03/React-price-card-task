@@ -1,4 +1,4 @@
-import './styles.css';
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'; // Import Bootstrap CSS
 
 function App() {
