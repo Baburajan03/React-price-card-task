@@ -1,6 +1,4 @@
 import './styles.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.css'; // Import Bootstrap CSS
 
 function App() {
