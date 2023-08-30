@@ -1,9 +1,10 @@
 import React from 'react'
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
+import './App.css';
 
 function App() {
   return (
+    <div>
     <section class="pricing py-5">
   <div class="container">
     <div class="row">
@@ -83,6 +84,7 @@ function App() {
     </div>
   </div>
 </section>
+</div>
   );
 }
 
